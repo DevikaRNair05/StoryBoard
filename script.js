@@ -20,7 +20,7 @@ const modalLoader = document.getElementById('modal-loader');
 const modalError = document.getElementById('modal-error');
 const cancelModalBtn = document.getElementById('cancel-modal-btn');
 
-const API_KEY = "AIzaSyDBxoJnxmeTIizj7U1H_fblSmDR4h5YtHE"; // PASTE YOUR KEY HERE FOR LOCAL TESTING
+const API_KEY =""; // PASTE YOUR KEY HERE FOR LOCAL TESTING
 
 // --- State Variables ---
 let conversationHistory = [];
